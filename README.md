@@ -1,144 +1,47 @@
----
+# GHOST-V2-MD BOT #
+<br>
+ </p>
+    <p align="center">
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=EB+Garamond&weight=800&size=28&duration=4000&pause=1000&random=false&width=435&lines=WELCOME+TO+GHOST-V2-MD;MULTI-DEVICE+WHATSAPP+BOT;DEVELOPED+BY;KIND GHOST , CYBER GHOST." alt="Typing SVG" /></a>
 
-# Ethix-MD-V2
+ 
+  
+<div align="center">
+</p
+
+<hr>
+
+<hr>
 
 <p align="center">
-  <a href="https://github.com/Ethix-Xsid"><img src="http://readme-typing-svg.herokuapp.com?color=red&center=true&vCenter=true&multiline=false&lines=Ethix-MD-+v2+MultiDevice;Developed+by+Ethix~Xsid;Give+star+and+forks+this+Repo+🌟" alt="EthixReadme"></a>
-</p>
+  <a href="https://youtu.be/WcA7GZuaN0A">
+    <img alt="GHOST-MD" height="300" src="https://files.catbox.moe/fkbuo0.jpg">
 
-## 🚀 Getting Started
+    
 
-To get started with Ethix-MD-V2, follow these steps:
+![forks](https://github.com/Cyberghost352/GHOST-MD.git)
 
-### 1. Fork This Repository
+![stars](https://github.com/Cyberghost352/GHOST-MD.git)
 
-Start by forking this repository to your own GitHub account. Click the button below to fork:
 
-<a href='https://github.com/Ethix-Xsid/Ethix-MD-V2/fork' target="_blank"><img alt='Fork repo' src='https://img.shields.io/badge/Fork This Repo-black?style=for-the-badge&logo=git&logoColor=white'/></a>
 
-### 2. Get Session ID via Pair Code
 
-You'll need a session ID to run the bot. Click the button below to obtain your session ID:
+<a href="https://chat.whatsapp.com/DhCdan60qzH0yoIxmybU3i"><img src="https://img.shields.io/badge/%E2%9D%A4%EF%B8%8F%E2%80%8D%20Join%20Our%20WhatsApp%20Channel%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB-green" alt="📎 Join Our WhatsApp Channel" width="300"></a>
 
-<a href='https://professional-kitty-goutammallick516-86803e18.koyeb.app' target="_blank"><img alt='Get Session ID' src='https://img.shields.io/badge/Click here to get your session id-black?style=for-the-badge&logo=opencv&logoColor=red'/></a>
 
-## 🚀 Deployment Options
+# 𝐆𝐇𝐎𝐒𝐓 𝐂𝐎𝐍𝐓𝐀𝐂𝐓 𝐍𝐔𝐌𝐁𝐄𝐑👇:
+<img src="https://telegra.ph/file/f8ced69143daac134f2d7.jpg" width=80 height=80></a>   
+- [**❯𝐆𝐇𝐎𝐒𝐓-𝐂𝐎𝐍𝐓𝐀𝐂𝐓-𝐈𝐃❮**](https://wa.me/+94741140620?text=*❝𝙷𝙴𝚈◹𝙶𝙷𝙾𝚂𝚃✗𝙿𝚁𝙾𝙶𝚁𝙰𝙼𝙴𝚁❞⛺*)
+# 𝐆𝐇𝐎𝐒𝐓 𝐂𝐎𝐍𝐓𝐀𝐂𝐓 𝐍𝐔𝐌𝐁𝐄𝐑👇:
+<img src="https://telegra.ph/file/68dd5640f7ca165397913.jpg" width=80 height=80></a>   
+- [**❯𝐆𝐇𝐎𝐒𝐓-𝐂𝐎𝐍𝐓𝐀𝐂𝐓-𝐈𝐃❮**](https://wa.me/+94718919262?text=*❝𝙷𝙴𝚈◹𝙶𝙷𝙾𝚂𝚃✗𝙿𝚁𝙾𝙶𝚁𝙰𝙼𝙴𝚁❞⛺*)
+-
+##  PAIRING CODE SCAN
+<a href="https://replit.com/@gamingpissa530/GHOST-MD-2#index.js"><img src="https://pair-web-public.koyeb.app/" alt="LOGIN WITH PAIR CODE" width="250"></a>
 
-You can deploy the Ethix-MD-V2 bot using two methods: **Heroku** or **Termux**. Choose the method that suits you best.
+##  PAIRING CODE SCAN 2
+<a href="https://ghost-md.osc-fr1.scalingo.io/"><img src="https://pair-web-public.koyeb.app/" alt="LOGIN WITH PAIR CODE" width="250"></a>
 
-### Deploy to Heroku
+## Deploy.
+ [![nima](https://img.shields.io/badge/ghostmd_deploy_on_heroku-430098?style=for-the-badge&logo=heroku&logoColor=white&buttcode=1n2i3m4a)](https://dashboard.heroku.com/new?template=https://github.com/GHOST-V1-MD/GHOST-MD)
 
-Deploying the bot to Heroku is simple and straightforward. Follow these steps:
-
-1. **Create a Heroku Account:**
-
-   If you don't already have a Heroku account, create one by clicking the button below:
-
-   <a href='https://signup.heroku.com/' target="_blank"><img alt='Heroku' src='https://img.shields.io/badge/-Create-black?style=for-the-badge&logo=heroku&logoColor=red'/></a>
-
-2. **Deploy the Bot:**
-
-   Once your Heroku account is ready, deploy the bot by clicking the button below:
-
-   <a href='https://heroku.com/deploy' target="_blank"><img alt='DEPLOY' src='https://img.shields.io/badge/-DEPLOY-black?style=for-the-badge&logo=heroku&logoColor=red'/></a>
-
-### Deploy to Termux
-
-You can also deploy the bot directly on your Android device using Termux. Here’s how:
-
-1. **Install Termux:**
-
-   If you don't have Termux installed, download it from the Google Play Store or F-Droid.
-
-   - [Google Play Store](https://play.google.com/store/apps/details?id=com.termux)
-   - [F-Droid](https://f-droid.org/en/packages/com.termux/)
-
-2. **Update and Install Required Packages:**
-
-   Open Termux and run the following commands to update packages and install required dependencies:
-
-   ```bash
-   pkg update && pkg upgrade
-   pkg install git nodejs -y
-   ```
-
-3. **Clone the Repository:**
-
-   Clone the forked repository using the following command:
-
-   ```bash
-   git clone https://github.com/Ethix-Xsid/Ethix-MD-V2.git
-   ```
-
-4. **Navigate to the Project Directory:**
-
-   Change into the project directory:
-
-   ```bash
-   cd Ethix-MD-V2
-   ```
-
-5. **Set the `SESSION_ID` in the `.env` File:**
-
-   To set the `SESSION_ID`, you need to create or edit the `.env` file in the project directory.
-
-   - **Create/Edit the `.env` File:**
-
-     Open (or create) the `.env` file using a text editor like `nano`:
-
-     ```bash
-     nano .env
-     ```
-
-   - **Add the `SESSION_ID` Variable:**
-
-     Add the following line to the `.env` file:
-
-     ```bash
-     SESSION_ID='your-session-id-here'
-     ```
-
-     Replace `'your-session-id-here'` with the actual session ID you obtained.
-
-   - **Save and Exit:**
-
-     If using `nano`, save the changes by pressing `CTRL + X`, then `Y`, and then `Enter` to exit.
-
-6. **Install Node Modules:**
-
-   Install the required Node.js modules:
-
-   ```bash
-   npm install
-   ```
-
-7. **Start the Bot:**
-
-   Finally, start the bot with the following command:
-
-   ```bash
-   node .
-   ```
-
-   Make sure to keep Termux open to maintain the bot's operation.
-
-## 🌐 Join WhatsApp Group, Channel, and Contact the Owner
-
-Stay connected with the latest updates and community by joining our official WhatsApp group and channel. You can also contact the owner directly.
-
-- **Owner WhatsApp Number:** +919142294671
-  - *Note:* Please save the owner's number in your contacts before sending a message.
-
-- **WhatsApp Channel:** [Join Here](https://whatsapp.com/channel/0029VaWJMi3GehEE9e1YsI1S)
-
-- **WhatsApp Group:** [Join Here](https://chat.whatsapp.com/E3PWxdvLc7ZCp1ExOCkEGp)
-- 
-- **Donate:** [Buy Me A Coffee](buymeacoffee.com/ethixbhai)
-
-## ⚠️ Reminder
-
-- **Disclaimer:** This bot is not affiliated with `WhatsApp Inc.`. Use it at your own risk.
-- Misusing the bot may result in your `WhatsApp` account being banned. Note that you can only unban your account once.
-- I am not responsible for any bans or misuse of the bot. Please keep this warning in mind before proceeding.
-
----

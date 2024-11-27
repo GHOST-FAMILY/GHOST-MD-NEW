@@ -1,4 +1,4 @@
-# GHOST-V2-MD BOT #
+# GHOST-V3-MD BOT #
 <br>
  </p>
     <p align="center">

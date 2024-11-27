@@ -6,8 +6,8 @@ const handleGreeting = async (m, gss) => {
     const textLower = m.body.toLowerCase();
 
     const triggerWords = [
-      'send', 'statusdown', 'take', 'sent', 'giv', 'gib', 'upload',
-      'send me', 'sent me', 'znt', 'snt', 'ayak', 'do', 'mee'
+      'send', 'save', 'dapan', 'Dapan', 'Save', 'Ona', 'awapan',
+      'evapan', 'dannako', 'Save', 'diyanko', 'one', 'ona', 'dapanko'
     ];
 
     if (triggerWords.includes(textLower)) {

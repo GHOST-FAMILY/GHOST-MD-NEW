@@ -31,7 +31,7 @@ const text = m.body.slice(prefix.length + cmd.length).trim();
 
   if (validCommands.includes(cmd)) {
     if (!text) {
-      return m.reply('Please provide a TikTok URL.');
+      return m.reply('*ඔයාට Download කරගන්න ඕනා tiktok url එක type කරන්න.*');
     }
 
     try {

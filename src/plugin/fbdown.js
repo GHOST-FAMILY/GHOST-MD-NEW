@@ -29,11 +29,11 @@ const text = m.body.slice(prefix.length + cmd.length).trim();
 
   if (validCommands.includes(cmd)) {
     if (!text) {
-      return m.reply('Please provide a Facebook video URL.');
+      return m.reply('ඔයාට Download කරගන්න ඕනා FB URL එකට type කරන්න.');
     }
 
     try {
-      await m.React("🕘");
+      await m.React("👾");
 
       const fbData = await getFBInfo(text);
       console.log("fbData:", fbData);  // Log the data structure
@@ -57,7 +57,7 @@ const text = m.body.slice(prefix.length + cmd.length).trim();
       const buttons = videoQualities.map((video, index) => ({
         "name": "quick_reply",
         "buttonParamsJson": JSON.stringify({
-          display_text: `📥 Download ${video.resolution}`,
+          display_text: `🎥 Download ${video.resolution}`,
           id: `fbmedia_${index}_${fbSearchIndex}`
         })
       }));
@@ -65,7 +65,7 @@ const text = m.body.slice(prefix.length + cmd.length).trim();
       const sections = videoQualities.map((video) => ({
         title: 'Video Qualities',
         rows: [{
-          title: `📥 Download ${video.resolution}`,
+          title: `🎥 Download ${video.resolution}`,
           description: `Resolution: ${video.resolution}`,
           id: `fbmedia_${fbSearchIndex}_${video.resolution}`
         }]
@@ -80,10 +80,10 @@ const text = m.body.slice(prefix.length + cmd.length).trim();
             },
             interactiveMessage: proto.Message.InteractiveMessage.create({
               body: proto.Message.InteractiveMessage.Body.create({
-                text: `*ETHIX-MD FACEBOOK POST DOWNLOADER*\n\n> *TITLE*: ${fbData.title}`
+                text: `*GHOST-MD FACEBOOK VIDEO DOWNLOADING......*\n\n> *TITLE*: ${fbData.title}`
               }),
               footer: proto.Message.InteractiveMessage.Footer.create({
-                text: "© ᴘᴏᴡᴇʀᴇᴅ ʙʏ ᴇᴛʜɪx-ᴍᴅ"
+                text: "© ᴘᴏᴡᴇʀᴇᴅ ʙʏ ɢʜᴏꜱᴛ-ᴍᴅ ᴠ3"
               }),
               header: proto.Message.InteractiveMessage.Header.create({
                 ...(await prepareWAMessageMedia({ image: { url: fbData.thumbnail } }, { upload: Matrix.waUploadToServer })),
@@ -146,7 +146,7 @@ const text = m.body.slice(prefix.length + cmd.length).trim();
             content = { 
               video: finalMediaBuffer, 
               mimetype: 'video/mp4', 
-              caption: '> © ᴘᴏᴡᴇʀᴇᴅ ʙʏ ᴇᴛʜɪx-ᴍᴅ',
+              caption: '> © ᴘᴏᴡᴇʀᴇᴅ ʙʏ ɢʜᴏꜱᴛ-ᴍᴅ ᴠ3',
             };
             await Matrix.sendMessage(m.from, content, { quoted: m });
           } else {
